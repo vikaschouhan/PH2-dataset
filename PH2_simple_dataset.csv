@@ -1,0 +1,201 @@
+image_name,diagnosis
+IMD003,Common Nevus
+IMD009,Common Nevus
+IMD016,Common Nevus
+IMD022,Common Nevus
+IMD024,Common Nevus
+IMD025,Common Nevus
+IMD035,Common Nevus
+IMD038,Common Nevus
+IMD042,Common Nevus
+IMD044,Common Nevus
+IMD045,Common Nevus
+IMD050,Common Nevus
+IMD092,Common Nevus
+IMD101,Common Nevus
+IMD103,Common Nevus
+IMD112,Common Nevus
+IMD118,Common Nevus
+IMD125,Common Nevus
+IMD132,Common Nevus
+IMD134,Common Nevus
+IMD135,Common Nevus
+IMD144,Common Nevus
+IMD146,Common Nevus
+IMD147,Common Nevus
+IMD150,Common Nevus
+IMD152,Common Nevus
+IMD156,Common Nevus
+IMD159,Common Nevus
+IMD161,Common Nevus
+IMD162,Common Nevus
+IMD175,Common Nevus
+IMD177,Common Nevus
+IMD182,Common Nevus
+IMD198,Common Nevus
+IMD200,Common Nevus
+IMD010,Common Nevus
+IMD017,Common Nevus
+IMD020,Common Nevus
+IMD039,Common Nevus
+IMD041,Common Nevus
+IMD105,Common Nevus
+IMD107,Common Nevus
+IMD108,Common Nevus
+IMD133,Common Nevus
+IMD142,Common Nevus
+IMD143,Common Nevus
+IMD160,Common Nevus
+IMD173,Common Nevus
+IMD176,Common Nevus
+IMD196,Common Nevus
+IMD197,Common Nevus
+IMD199,Common Nevus
+IMD203,Common Nevus
+IMD204,Common Nevus
+IMD206,Common Nevus
+IMD207,Common Nevus
+IMD208,Common Nevus
+IMD364,Common Nevus
+IMD365,Common Nevus
+IMD367,Common Nevus
+IMD371,Common Nevus
+IMD372,Common Nevus
+IMD374,Common Nevus
+IMD375,Common Nevus
+IMD378,Common Nevus
+IMD379,Common Nevus
+IMD380,Common Nevus
+IMD381,Common Nevus
+IMD383,Common Nevus
+IMD384,Common Nevus
+IMD385,Common Nevus
+IMD389,Common Nevus
+IMD390,Common Nevus
+IMD392,Common Nevus
+IMD394,Common Nevus
+IMD395,Common Nevus
+IMD397,Common Nevus
+IMD399,Common Nevus
+IMD400,Common Nevus
+IMD402,Common Nevus
+IMD002,Atypical Nevus
+IMD004,Atypical Nevus
+IMD013,Atypical Nevus
+IMD015,Atypical Nevus
+IMD019,Atypical Nevus
+IMD021,Atypical Nevus
+IMD027,Atypical Nevus
+IMD030,Atypical Nevus
+IMD032,Atypical Nevus
+IMD033,Atypical Nevus
+IMD037,Atypical Nevus
+IMD040,Atypical Nevus
+IMD043,Atypical Nevus
+IMD047,Atypical Nevus
+IMD048,Atypical Nevus
+IMD049,Atypical Nevus
+IMD057,Atypical Nevus
+IMD075,Atypical Nevus
+IMD076,Atypical Nevus
+IMD078,Atypical Nevus
+IMD120,Atypical Nevus
+IMD126,Atypical Nevus
+IMD137,Atypical Nevus
+IMD138,Atypical Nevus
+IMD139,Atypical Nevus
+IMD140,Atypical Nevus
+IMD149,Atypical Nevus
+IMD153,Atypical Nevus
+IMD157,Atypical Nevus
+IMD164,Atypical Nevus
+IMD166,Atypical Nevus
+IMD169,Atypical Nevus
+IMD171,Atypical Nevus
+IMD210,Atypical Nevus
+IMD347,Atypical Nevus
+IMD155,Atypical Nevus
+IMD376,Atypical Nevus
+IMD006,Atypical Nevus
+IMD008,Atypical Nevus
+IMD014,Atypical Nevus
+IMD018,Atypical Nevus
+IMD023,Atypical Nevus
+IMD031,Atypical Nevus
+IMD036,Atypical Nevus
+IMD154,Atypical Nevus
+IMD170,Atypical Nevus
+IMD226,Atypical Nevus
+IMD243,Atypical Nevus
+IMD251,Atypical Nevus
+IMD254,Atypical Nevus
+IMD256,Atypical Nevus
+IMD278,Atypical Nevus
+IMD279,Atypical Nevus
+IMD280,Atypical Nevus
+IMD304,Atypical Nevus
+IMD305,Atypical Nevus
+IMD306,Atypical Nevus
+IMD312,Atypical Nevus
+IMD328,Atypical Nevus
+IMD331,Atypical Nevus
+IMD339,Atypical Nevus
+IMD356,Atypical Nevus
+IMD360,Atypical Nevus
+IMD368,Atypical Nevus
+IMD369,Atypical Nevus
+IMD370,Atypical Nevus
+IMD382,Atypical Nevus
+IMD386,Atypical Nevus
+IMD388,Atypical Nevus
+IMD393,Atypical Nevus
+IMD396,Atypical Nevus
+IMD398,Atypical Nevus
+IMD427,Atypical Nevus
+IMD430,Atypical Nevus
+IMD431,Atypical Nevus
+IMD432,Atypical Nevus
+IMD433,Atypical Nevus
+IMD434,Atypical Nevus
+IMD436,Atypical Nevus
+IMD437,Atypical Nevus
+IMD058,Melanoma
+IMD061,Melanoma
+IMD063,Melanoma
+IMD064,Melanoma
+IMD065,Melanoma
+IMD080,Melanoma
+IMD085,Melanoma
+IMD088,Melanoma
+IMD090,Melanoma
+IMD091,Melanoma
+IMD168,Melanoma
+IMD211,Melanoma
+IMD219,Melanoma
+IMD240,Melanoma
+IMD242,Melanoma
+IMD284,Melanoma
+IMD285,Melanoma
+IMD348,Melanoma
+IMD349,Melanoma
+IMD403,Melanoma
+IMD404,Melanoma
+IMD405,Melanoma
+IMD407,Melanoma
+IMD408,Melanoma
+IMD409,Melanoma
+IMD410,Melanoma
+IMD413,Melanoma
+IMD417,Melanoma
+IMD418,Melanoma
+IMD419,Melanoma
+IMD406,Melanoma
+IMD411,Melanoma
+IMD420,Melanoma
+IMD421,Melanoma
+IMD423,Melanoma
+IMD424,Melanoma
+IMD425,Melanoma
+IMD426,Melanoma
+IMD429,Melanoma
+IMD435,Melanoma
